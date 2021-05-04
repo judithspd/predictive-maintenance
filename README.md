@@ -17,7 +17,7 @@ In this analysis we will use Python (version higher than 3.8) and different libr
 ### Scientific computing:
 - [NumPy](https://numpy.org/): Library specialized in numerical analysis. Support for the creation of vectors and matrices, as well as for the use of different mathematical functions.
 - [Pandas](https://pandas.pydata.org/): Tool for data analysis and manipulation. Written as an extension of NumPy.
-- [Scipy](https://www.scipy.org/): Library with different mathematical tools and algorithms.
+- [SciPy](https://www.scipy.org/): Library with different mathematical tools and algorithms.
 ### Machine learning and data analysis:
 - [Scikit-learn](https://scikit-learn.org/stable/): Library wich contains tools for data analysis, especially used in our case for the use of machine learning models. 
 - [LightGBM](https://lightgbm.readthedocs.io/en/latest/): Gradient boosting framework which uses tree-based learning algorithms.
