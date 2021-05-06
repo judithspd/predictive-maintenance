@@ -29,3 +29,19 @@ In this analysis we will use Python (version higher than 3.8) and different libr
 - [Seaborn](https://seaborn.pydata.org/): High-level interface for creating visualizations
 ### Time series analysis:
 - [PyHHT](https://pyhht.readthedocs.io/en/latest/tutorials.html): Module that implements the Hilbert-Huang Transform (HHT).
+
+## Recommendations for installation:
+1. Clone the repository
+2. Create venv from conda or from python
+3. Create a conda or Python virtual environment. We recommend to create a Python virtual environment, as well as not to use a Python version higher than 3.9 because it has not been tested with this project.
+```
+python3.8 -m venv .venv
+```
+4. Activate virtual environment:
+```
+source .venv/Scripts/activate.bat
+```
+5. Install requirements.txt
+```
+pip install -r requirements.txt
+```
