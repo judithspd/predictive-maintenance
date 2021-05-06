@@ -32,16 +32,15 @@ In this analysis we will use Python (version higher than 3.8) and different libr
 
 ## Recommendations for installation:
 1. Clone the repository
-2. Create venv from conda or from python
-3. Create a conda or Python virtual environment. We recommend to create a Python virtual environment, as well as not to use a Python version higher than 3.9 because it has not been tested with this project.
+2. Create a conda or Python virtual environment. We recommend to create a Python virtual environment, as well as not to use a Python version higher than 3.9 because it has not been tested with this project.
 ```
 python3.8 -m venv .venv
 ```
-4. Activate virtual environment:
+3. Activate virtual environment:
 ```
 source .venv/Scripts/activate.bat
 ```
-5. Install requirements.txt
+4. Install requirements.txt
 ```
 pip install -r requirements.txt
 ```
