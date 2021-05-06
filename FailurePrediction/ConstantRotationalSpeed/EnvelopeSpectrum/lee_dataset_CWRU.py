@@ -7,7 +7,8 @@ def lee_dataset(dataset_mat):
     ds = sio.loadmat(dataset_mat)
     dataname = 'X'
     cont = 0
-    for i in dataset_mat:
+    num_dataset = dataset_mat[12:]
+    for i in num_dataset:
         if i != '.' and i != 'm' and i != 'a' and i != 't':
             cont = cont + 1
             dataname = dataname + i
