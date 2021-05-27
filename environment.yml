@@ -1,0 +1,27 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - conda
+  - python=3.8
+  - menuinst
+  - console_shortcut
+  - powershell_shortcut
+  - notebook
+  - jupyter
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - pydotplus
+  - seaborn
+  - pillow
+  - scikit-learn
+  - plotly
+  - h5py
+  - tensorflow
+  - keras
+  - setuptools_scm
+  - hmmlearn
+  - pyemd
+prefix: C:\Users\jspardo\Miniconda3

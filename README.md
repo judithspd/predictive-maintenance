@@ -1,5 +1,10 @@
 # PREDICTIVE MAINTENANCE 
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judithspd/predictive-maintenance/master)
 
+Access to the Binder-compatible repo by clicking the blue badge above. The `environment.yml` file list all Python libraries on which the different notebooks
+depend.
+
+---
 Baseline study on the development of predictive maintenance techniques using open data. Classic predictive maintenance problems will be studied:
 - Classification of the signal as healthy or faulty.
 - Failure type classification.
@@ -26,7 +31,7 @@ In this analysis we will use Python (version higher than 3.8) and different libr
 - [Joblib](https://joblib.readthedocs.io/en/latest/): In our case, library used to export models for forecasting.
 ### Data visualization:
 - [Matplotlib](https://matplotlib.org/): Library for creating static, animated and interactive visualizations in Python.
-- [Seaborn](https://seaborn.pydata.org/): High-level interface for creating visualizations
+- [Seaborn](https://seaborn.pydata.org/): High-level interface for creating visualizations.
 ### Time series analysis:
 - [PyHHT](https://pyhht.readthedocs.io/en/latest/tutorials.html): Module that implements the Hilbert-Huang Transform (HHT).
 
