@@ -4,9 +4,6 @@ channels:
 dependencies:
   - conda
   - python=3.8
-  - menuinst
-  - console_shortcut
-  - powershell_shortcut
   - notebook
   - jupyter
   - numpy
