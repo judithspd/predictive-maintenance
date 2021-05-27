@@ -1,5 +1,5 @@
 # PREDICTIVE MAINTENANCE 
-
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judithspd/predictive-maintenance/master)
 Baseline study on the development of predictive maintenance techniques using open data. Classic predictive maintenance problems will be studied:
 - Classification of the signal as healthy or faulty.
 - Failure type classification.
