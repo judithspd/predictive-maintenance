@@ -1,5 +1,5 @@
 # PREDICTIVE MAINTENANCE 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judithspd/predictive-maintenance/master)
+[![DOI](https://zenodo.org/badge/364837516.svg)](https://zenodo.org/badge/latestdoi/364837516) [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judithspd/predictive-maintenance/master)
 
 Access to the Binder-compatible repo by clicking the blue badge above. The `environment.yml` file list all Python libraries on which the different notebooks
 depend.
