@@ -1,5 +1,5 @@
 # PREDICTIVE MAINTENANCE 
-[![DOI](https://zenodo.org/badge/364837516.svg)](https://zenodo.org/badge/latestdoi/364837516) [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judithspd/predictive-maintenance/master)
+[![DOI](https://zenodo.org/badge/364837516.svg)](https://zenodo.org/badge/latestdoi/364837516) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/judithspd/predictive-maintenance/blob/master/LICENSE) [!release](https://img.shields.io/github/v/release/judithspd/predictive-maintenance) [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judithspd/predictive-maintenance/master) 
 
 Access to the Binder-compatible repo by clicking the blue badge above. The `requirements.txt` file list all Python libraries on which the different notebooks
 depend.
